@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
       "projectGuid": "72c10b9e-f04c-4b57-9bf4-53c5d8960bdb",
-      "lastModifiedDate": 1416301116856,
+      "lastModifiedDate": 1416503921392,
       "creationDate": 1416292514144
     },
     "sourceDirectory": "www",
@@ -56,7 +56,8 @@
           "android-minSdkVersion": "10",
           "android-targetSdkVersion": "19",
           "android-installLocation": "auto",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "portrait"
         },
         "isActive_": true,
         "appName_": "easel-js-template",
@@ -82,7 +83,8 @@
           "android-minSdkVersion": "14",
           "android-targetSdkVersion": "19",
           "android-installLocation": "auto",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "portrait"
         },
         "isActive_": true,
         "appName_": "easel-js-template",
@@ -107,7 +109,8 @@
         "preferences_": {
           "ios-target": "5",
           "ios-configuration": "adhoc",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "portrait"
         },
         "isActive_": true,
         "appName_": "easel-js-template",
@@ -130,7 +133,8 @@
         "preferences_": {
           "windows-publisher-display-name": "",
           "windows-publisher-id": "",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "portrait"
         },
         "isActive_": true,
         "appName_": "easel-js-template",
