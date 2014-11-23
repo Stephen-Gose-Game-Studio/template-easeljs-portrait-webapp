@@ -64,8 +64,7 @@
           "android-minSdkVersion": "10",
           "android-targetSdkVersion": "19",
           "android-installLocation": "auto",
-          "Fullscreen": true,
-          "Orientation": "landscape"
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "easel-js-template",
