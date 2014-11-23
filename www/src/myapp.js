@@ -3,9 +3,9 @@
         // get a reference to the canvas we'll be working with:
         var canvas = document.getElementById("testCanvas");
         // set canvas width
-        canvas.width = window.innerWidth;
+        canvas.width = window.innerHeight;
         // set canvas height
-        canvas.height = window.innerHeight;
+        canvas.height = window.innerWidth;
 
         // create a stage object to work with the canvas. This is the top level node in the display list:
         var stage = new createjs.Stage(canvas);
