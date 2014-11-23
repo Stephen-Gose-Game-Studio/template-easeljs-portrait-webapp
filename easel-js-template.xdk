@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
       "projectGuid": "72c10b9e-f04c-4b57-9bf4-53c5d8960bdb",
-      "lastModifiedDate": 1416503921392,
+      "lastModifiedDate": 1416723873595,
       "creationDate": 1416292514144
     },
     "sourceDirectory": "www",
@@ -30,6 +30,14 @@
       }
     ],
     "serviceMethods": [],
+    "gameAssetDirectory": "res",
+    "gameMetadata": {
+      "gameEngineName": "easeljs",
+      "gameEngineVersion": "0.7"
+    },
+    "projectTags": [
+      "XDK-game-app"
+    ],
     "cordovaPluginsDirectory": "plugins",
     "cordovaPlugins": [
       {
@@ -57,7 +65,7 @@
           "android-targetSdkVersion": "19",
           "android-installLocation": "auto",
           "Fullscreen": true,
-          "Orientation": "portrait"
+          "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "easel-js-template",
