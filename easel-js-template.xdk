@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
       "projectGuid": "72c10b9e-f04c-4b57-9bf4-53c5d8960bdb",
-      "lastModifiedDate": 1416723873595,
+      "lastModifiedDate": 1416810819956,
       "creationDate": 1416292514144
     },
     "sourceDirectory": "www",
@@ -64,7 +64,8 @@
           "android-minSdkVersion": "10",
           "android-targetSdkVersion": "19",
           "android-installLocation": "auto",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "portrait"
         },
         "isActive_": true,
         "appName_": "easel-js-template",
