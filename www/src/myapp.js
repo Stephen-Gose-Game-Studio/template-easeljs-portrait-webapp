@@ -25,6 +25,6 @@
             stage.update();
         }
         // set image source
-        img.src = "res/icon.png";
+        img.src = "asset/icon.png";
     }, false);
 }());
