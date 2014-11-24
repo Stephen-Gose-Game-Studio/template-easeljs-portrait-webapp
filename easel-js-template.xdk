@@ -30,7 +30,7 @@
       }
     ],
     "serviceMethods": [],
-    "gameAssetDirectory": "res",
+    "gameAssetDirectory": "asset",
     "gameMetadata": {
       "gameEngineName": "easeljs",
       "gameEngineVersion": "0.7"
