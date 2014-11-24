@@ -11,9 +11,6 @@ Download the Intel XDK at http://software.intel.com/en-us/html5.
 
 See [README.MD](https://github.com/gomobile/template-a-blank-cordova/blob/master/README.md) of the [Blank Intel XDK and Apache Cordova Project](https://github.com/gomobile/template-a-blank-cordova/blob/master/README.md) for the details about Intel XDK and Apache Cordova project.
 
-To see the technical detail of the sample, please visit the sample article page 
-at http://software.intel.com/en-us/articles/media-sample-using-phonegap. 
-
 Application Files
 -----------------
 * LICENSE.md
