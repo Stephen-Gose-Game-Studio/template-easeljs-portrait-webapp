@@ -6,7 +6,7 @@ This template can be used for creating an Intel XDK game app using EaselJS libra
 
 Intel(R) XDK
 -------------------------------------------
-This templete is part of the Intel(R) XDK. 
+This template is part of the Intel(R) XDK. 
 Download the Intel XDK at http://software.intel.com/en-us/html5.
 
 See [README.MD](https://github.com/gomobile/template-a-blank-cordova/blob/master/README.md) of the [Blank Intel XDK and Apache Cordova Project](https://github.com/gomobile/template-a-blank-cordova/blob/master/README.md) for the details about Intel XDK and Apache Cordova project.
