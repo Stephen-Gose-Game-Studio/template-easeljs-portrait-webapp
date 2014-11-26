@@ -6,8 +6,9 @@
  *  -> Cordova 3.x Hybrid Mobile App Settings
  *     -> Plugins and Permissions
  */
+
 // Listen to deviceready event which is fired when Cordova plugins are ready
 document.addEventListener('deviceready', function() {
-  // Call splashscreen API to hide the splash.
-  navigator.splashscreen.hide();
+    // Call splashscreen API to hide the splash.
+    navigator.splashscreen.hide();
 });

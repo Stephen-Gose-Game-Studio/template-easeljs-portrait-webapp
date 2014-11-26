@@ -23,7 +23,7 @@
             stage.addChild(bitmap);
             // call update on the stage to make it render the current display list to the canvas:
             stage.update();
-        }
+        };
         // set image source
         img.src = "asset/icon.png";
     }, false);
