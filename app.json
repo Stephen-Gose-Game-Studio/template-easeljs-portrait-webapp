@@ -1,15 +1,15 @@
 {
-    "reponame": "easel-js-template",
-    "title": "EaselJS Template",
-    "tooltip": "A template HTML5 game for EaselJS",
-    "description": "A teaches you use HTML5, JavaScript, CSS3 and EaselJS, create a game template.",
-    "articleUrl": "http://software.intel.com/en-us/articles/super-mario-not-here",
-    "keywords": ["EaselJS", "Game"],
+    "reponame": "easel-js-portrait-template",
+    "title": "EaselJS Portrait Template",
+    "tooltip": "A blank template for creating games from EaselJS",
+    "description": "Use this template to start with a blank portrait Game from EaselJS",
+    "articleUrl": "",
+    "keywords": ["Blank Project", "Game"],
     "visible": "true",
     "highlights": ["EaselJS", "GAME"],
-    "appname": "template.easeljs",
-    "abbr": "template",
-    "relname": "0.0.1",
-    "apppreview": "true",
-    "mobile": "true"
+    "appname": "",
+    "abbr": "",
+    "relname": "",
+    "apppreview": "false",
+    "mobile": "false"
 }
