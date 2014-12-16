@@ -5,7 +5,7 @@
     "description": "Use this template to start with a blank portrait Game from EaselJS",
     "articleUrl": "",
     "keywords": ["Blank Project", "Game"],
-    "visible": "false",
+    "visible": "true",
     "highlights": ["EaselJS", "Game"],
     "appname": "",
     "abbr": "",
