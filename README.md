@@ -1,4 +1,4 @@
-# Blank EaselJS Project with Apache Cordova
+# Blank EaselJS Project
 
 See [LICENSE.md]() for license terms and conditions.
 
@@ -8,8 +8,6 @@ Intel(R) XDK
 -------------------------------------------
 This template is part of the Intel(R) XDK. 
 Download the Intel XDK at http://software.intel.com/en-us/html5.
-
-Visit https://github.com/gomobile/template-a-blank-cordova for the details about Intel XDK and Apache Cordova project.
 
 Application Files
 -----------------
@@ -22,6 +20,5 @@ Application Files
 * lib/easeljs-0.7.1.min.js
 * lib/movieclip-0.7.1.min.js
 * res/icon.png
-* src/cordova-init.js
 * src/myapp.js
 * index.html
