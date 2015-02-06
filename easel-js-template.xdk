@@ -221,7 +221,10 @@
       }
     },
     "gameAssetDirectory": "asset",
-    "gameMetadata": {},
+    "gameMetadata": {
+      "gameEngineName": "easeljs",
+      "gameEngineVersion": "0.7"
+    },
     "projectTags": [
       "XDK-game-app"
     ]
