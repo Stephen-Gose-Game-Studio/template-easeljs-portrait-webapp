@@ -11,5 +11,8 @@
     "abbr": "",
     "relname": "",
     "apppreview": "false",
-    "mobile": "false"
+    "mobile": "false",
+    "relationship": "easeljs",
+    "gameEngine": { "name": "easeljs" },
+    "projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
