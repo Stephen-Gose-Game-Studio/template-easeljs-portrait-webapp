@@ -1,3 +1,5 @@
+/* jshint browser:true */
+/* globals createjs */
 (function() {
     document.addEventListener('DOMContentLoaded', function() {
         // get a reference to the canvas we'll be working with:
