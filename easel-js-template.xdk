@@ -3,9 +3,9 @@
         "projectSettingsVersion": "1.2",
         "creationData": {
             "projectTypeName": "com.intel.xdk.projecttype.webapp",
-            "src": "https://edge-intel.s3.amazonaws.com/jsapp/production/release-2015-ww07/template-blank/sample.zip",
+            "src": "",
             "projectGuid": "00000000-0000-0000-0000-000000000000",
-            "lastModifiedDate": 1422522033610,
+            "lastModifiedDate": 1439533176249,
             "creationDate": 1422514108698
         },
         "sourceDirectory": "www",
@@ -30,7 +30,7 @@
                 "runtime_": "W3C on Cordova",
                 "name_": "Android",
                 "preferences_": {
-                    "android-minSdkVersion": "14",
+                    "android-minSdkVersion": "10",
                     "android-targetSdkVersion": "19",
                     "android-installLocation": "auto",
                     "Orientation": "portrait"
@@ -229,7 +229,7 @@
         "gameAssetDirectory": "asset",
         "gameMetadata": {
             "gameEngineName": "easeljs",
-            "gameEngineVersion": "0.7"
+            "gameEngineVersion": "0.8.1"
         },
         "projectTags": [
             "XDK-game-app"

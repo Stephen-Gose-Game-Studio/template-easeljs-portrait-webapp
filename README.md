@@ -17,8 +17,10 @@ Application Files
 * intelxdk.config.additions.xml
 * easel-js-template.xdk
 * css/styles.css
-* lib/easeljs-0.7.1.min.js
-* lib/movieclip-0.7.1.min.js
+* lib/easeljs-0.8.1.min.js
+* lib/movieclip-0.8.1.min.js
+* lib/webgl-0.8.1.min.js
+* lib/LICENSE.txt
 * res/icon.png
 * src/myapp.js
 * index.html
