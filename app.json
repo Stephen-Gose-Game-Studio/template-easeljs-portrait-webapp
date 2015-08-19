@@ -15,6 +15,6 @@
     "apppreview": false,
     "mobile": false,
     "relationship": "easeljs",
-    "gameEngine": { "name": "easeljs" },
+    "gameEngine": { "name": "easeljs" , "version" : "0.8.1" },
     "projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
