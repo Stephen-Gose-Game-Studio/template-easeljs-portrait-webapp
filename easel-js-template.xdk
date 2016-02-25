@@ -27,52 +27,33 @@
         "buildConfigurations": {
             "Android": {
                 "platform_": "android",
-                "runtime_": "W3C on Cordova",
-                "name_": "Android",
-                "preferences_": {
-                    "android-minSdkVersion": "14",
-                    "android-targetSdkVersion": "19",
-                    "android-installLocation": "auto",
-                    "Orientation": "portrait"
-                },
-                "isActive_": true,
-                "appName_": "blank-easeljs-game-webapp",
-                "appID_": "xdk.intel.blank.easeljs.game.template",
-                "appAccess_": [
-                    {
-                        "origin": "*"
-                    }
-                ],
-                "icons_": [],
-                "splashes_": [],
-                "addlPermissions_": "",
-                "excludedLibraries_": "",
-                "iosProvs_": [],
-                "cordovaCLIVersion_": "?",
-                "crosswalkVersion_": "?",
-                "appVersion_": "0.0.1",
-                "appDescription_": "Use this template to start creating EaselJS based mobile game web apps.",
-                "appAuthor_": "Intel XDK",
-                "appVersionCode_": "1"
-            },
-            "Android-Crosswalk": {
-                "platform_": "android",
                 "runtime_": "W3C on Crosswalk",
                 "name_": "Android-Crosswalk",
                 "preferences_": {
                     "android-minSdkVersion": "14",
-                    "android-targetSdkVersion": "19",
+                    "android-targetSdkVersion": "23",
                     "android-installLocation": "auto",
                     "Orientation": "portrait"
                 },
                 "isActive_": true,
                 "appName_": "blank-easeljs-game-webapp",
                 "appID_": "xdk.intel.blank.easeljs.game.template",
-                "appAccess_": [
-                    {
-                        "origin": "*"
-                    }
-                ],
+                "appAccess_": {
+                    "mode": "whitelist",
+                    "network": [
+                        "*"
+                    ],
+                    "intents": [
+                        "http://*/*",
+                        "https://*/*",
+                        "tel:*",
+                        "sms:*",
+                        "mailto:*",
+                        "geo:*",
+                        "market:*"
+                    ],
+                    "navigation": []
+                },
                 "icons_": [],
                 "splashes_": [],
                 "addlPermissions_": "",
@@ -90,18 +71,30 @@
                 "runtime_": "W3C on Cordova",
                 "name_": "iOS",
                 "preferences_": {
-                    "ios-target": "6",
+                    "ios-target": "8.0",
                     "ios-configuration": "adhoc",
                     "Orientation": "portrait"
                 },
                 "isActive_": true,
                 "appName_": "blank-easeljs-game-webapp",
                 "appID_": "xdk.intel.blank.easeljs.game.template",
-                "appAccess_": [
-                    {
-                        "origin": "*"
-                    }
-                ],
+                "appAccess_": {
+                    "mode": "legacy",
+                    "network": [
+                        "*"
+                    ],
+                    "intents": [
+                        "http://*/*",
+                        "https://*/*",
+                        "tel:*",
+                        "sms:*",
+                        "mailto:*",
+                        "geo:*",
+                        "itms:*",
+                        "itms-apps:*"
+                    ],
+                    "navigation": []
+                },
                 "icons_": [],
                 "splashes_": [],
                 "addlPermissions_": "",
@@ -125,11 +118,21 @@
                 "isActive_": true,
                 "appName_": "blank-easeljs-game-webapp",
                 "appID_": "xdk.intel.blank.easeljs.game.template",
-                "appAccess_": [
-                    {
-                        "origin": "*"
-                    }
-                ],
+                "appAccess_": {
+                    "mode": "legacy",
+                    "network": [
+                        "*"
+                    ],
+                    "intents": [
+                        "http://*/*",
+                        "https://*/*",
+                        "tel:*",
+                        "sms:*",
+                        "mailto:*",
+                        "geo:*"
+                    ],
+                    "navigation": []
+                },
                 "icons_": [],
                 "splashes_": [],
                 "addlPermissions_": "",
